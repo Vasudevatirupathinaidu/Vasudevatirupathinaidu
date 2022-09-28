@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-I'm a Software Engineer. I spend most of my time in web development (front-end and back-end) and python programming.
+I'm a Software Engineer. I spend most of my time in web development (front-end and back-end).
 
 :mailbox: Reach me out!
 
