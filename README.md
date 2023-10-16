@@ -10,10 +10,10 @@ I'm a Software Engineer. I spend most of my time in web development (front-end a
 
 #### Top Technologies
 
-<!-- TODO: Make technologies links takes you to repositories -->
+<!-- TODO: Make technologies links take you to repositories -->
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#) [![DJANGO Badge](https://img.shields.io/badge/-Django-3C873A?style=for-the-badge&labelColor=black&logo=django&logoColor=3C873A)](#)
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Vasudevatirupathinaidu.Vasudevatirupathinaidu)
+![](https://komarev.com/ghpvc/?username=Vasudevatirupathinaidu&color=orange)
