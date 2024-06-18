@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-I'm a Software Engineer. I spend most of my time in web development (frontend).
+Frontend Developer with a keen eye for crafting intuitive and responsive user interfaces. Passionate about advancing my career in a dynamic digital environment, where I can contribute to global development through innovative and impactful solutions. Eager to leverage my skills in a challenging and creative setting to drive excellence and enhance user experiences.
 
 :mailbox: Reach out to me!
 
