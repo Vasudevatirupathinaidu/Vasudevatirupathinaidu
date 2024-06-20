@@ -9,7 +9,7 @@ I'm a front-end developer with a keen eye for crafting intuitive and responsive 
 - [Pixel Icons](https://github.com/Vasudevatirupathinaidu/PixelIcons)
 - [My Portfolio: My Mind's Kaleidoscope](https://github.com/Vasudevatirupathinaidu/My-Portfolio-My-Minds-Kaleidoscope)
 
-#### Top Technologies
+### Top Technologies
 
 <!-- TODO: Make technologies links take you to repositories -->
 
@@ -19,6 +19,5 @@ I'm a front-end developer with a keen eye for crafting intuitive and responsive 
 
 <a href="https://github.com/Vasudevatirupathinaidu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://medium.com/@tirupathinaidu" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://dev.to/deva" target="_blank"><img alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a> <a href="https://twitter.com/vasudev617" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.youtube.com/@vasudev16180" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 
-#### Profile Visits
-
+### Profile Visits
 ![](https://komarev.com/ghpvc/?username=Vasudevatirupathinaidu&color=orange)
