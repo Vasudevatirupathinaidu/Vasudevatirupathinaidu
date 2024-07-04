@@ -5,6 +5,7 @@ Welcome to my page!
 I'm a front-end developer with a keen eye for crafting intuitive and responsive user interfaces. I am passionate about advancing my career in a dynamic digital environment where I can contribute to global development through innovative and impactful solutions. I am eager to leverage my skills in a challenging and creative setting to drive excellence and enhance user experiences.
 
 ### Latest Projects
+- [Git Mapper](https://github.com/Vasudevatirupathinaidu/GitMapper) - Work in progress
 - [Gemini Memo](https://github.com/Vasudevatirupathinaidu/GeminiMemo)
 - [Pixel Icons](https://github.com/Vasudevatirupathinaidu/PixelIcons)
 - [My Portfolio: My Mind's Kaleidoscope](https://github.com/Vasudevatirupathinaidu/My-Portfolio-My-Minds-Kaleidoscope)
