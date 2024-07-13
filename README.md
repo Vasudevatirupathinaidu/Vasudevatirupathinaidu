@@ -2,9 +2,10 @@
 
 ## Welcome to my page!
 
-I'm a Front-end developer with a keen eye for intuitive and responsive user interfaces. Passionate about contributing
-to global development through innovative solutions. Eager to leverage my skills in a dynamic environment to
-enhance user experiences and drive excellence.
+Front-end developer with nearly 3 years of experience, possessing a keen eye for intuitive and responsive user
+interfaces. Proven track record in leveraging JavaScript, React.js, and various other tech stacks to enhance user
+experiences and drive excellence. Eager to contribute skills in a dynamic environment to further improve user
+satisfaction and operational efficiency
 
 ### Latest Projects
 - [Git Mapper](https://github.com/Vasudevatirupathinaidu/GitMapper) - Work in progress
