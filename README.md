@@ -11,7 +11,7 @@ satisfaction and operational efficiency
 
 - 📫 Please reach out to me at **tirupathinaidu07@gmail.com**
 
-- 📄 Know about my experiences [Vasudev B](https://www.linkedin.com/in/vasu-b-513a7b103/)
+- 📄 Know about my experiences [Vasudev B](https://www.linkedin.com/in/vasudev-b-513a7b103/)
 
 ---
 
