@@ -1,6 +1,6 @@
-## Hi, I'm Vasudev <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi, I'm Vasudev <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Welcome to my page!
+## Welcome to my page!
 
 I'm a Front-end developer with a keen eye for intuitive and responsive user interfaces. Passionate about contributing
 to global development through innovative solutions. Eager to leverage my skills in a dynamic environment to
@@ -21,7 +21,7 @@ enhance user experiences and drive excellence.
 <p align="left"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Vasudevatirupathinaidu&show_icons=true&locale=en&layout=compact&theme=dark" alt="Vasudevatirupathinaidu" /></p>
 
 
-<h2 align="left">My GitHub Stats</h2>
+### My GitHub Stats
 <p align="left">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vasudevatirupathinaidu&show_icons=true&locale=en&theme=dark"" alt="Vasudevatirupathinaidu" />
 </p>
