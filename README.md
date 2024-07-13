@@ -13,11 +13,15 @@ satisfaction and operational efficiency
 
 - 📄 Know about my experiences [Vasudev B](https://www.linkedin.com/in/vasu-b-513a7b103/)
 
+---
+
 ### Latest Projects
 - [Git Mapper](https://github.com/Vasudevatirupathinaidu/GitMapper) - Work in progress
 - [Gemini Memo](https://github.com/Vasudevatirupathinaidu/GeminiMemo)
 - [Pixel Icons](https://github.com/Vasudevatirupathinaidu/PixelIcons)
 - [My Portfolio: My Mind's Kaleidoscope](https://github.com/Vasudevatirupathinaidu/My-Portfolio-My-Minds-Kaleidoscope)
+
+---
 
 ### Top Technologies
 
@@ -27,11 +31,36 @@ satisfaction and operational efficiency
 
 <p align="left"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Vasudevatirupathinaidu&show_icons=true&locale=en&layout=compact&theme=dark" alt="Vasudevatirupathinaidu" /></p>
 
+---
 
 ### My GitHub Stats
 <p align="left">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vasudevatirupathinaidu&show_icons=true&locale=en&theme=dark"" alt="Vasudevatirupathinaidu" />
 </p>
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Math is Everywhere](https://www.youtube.com/watch?v=fcAMpR6IOzI)
+- [Magnetic Tango: Repel Effect in JavaScript](https://www.youtube.com/watch?v=gpT--9KhR1M)
+- [My Portfolio: My Mind's Kaleidoscope](https://www.youtube.com/watch?v=WisnprhR9y0)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/@vasudev16180)
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Learning the Ropes: My Novice Journey to Problem Solving — Blog 1: Daydreaming, Random Thoughts, and Tetris Effect](https://medium.com/@tirupathinaidu/%EF%B8%8F-learning-the-ropes-my-novice-journey-to-problem-solving-blog-1-daydreaming-random-984c64d41944)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://medium.com/@tirupathinaidu)
+
+---
 
 ### :mailbox: Connect with me
 
