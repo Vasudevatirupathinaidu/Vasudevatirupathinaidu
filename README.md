@@ -2,10 +2,10 @@
 
 ## Welcome to my page!
 
-Front-end developer with nearly 3 years of experience, possessing a keen eye for intuitive and responsive user
-interfaces. Proven track record in leveraging JavaScript, React.js, and various other tech stacks to enhance user
-experiences and drive excellence. Eager to contribute skills in a dynamic environment to further improve user
-satisfaction and operational efficiency
+Software engineer with over 6 years of experience, including nearly 3 years in front-end development. Skilled in
+creating intuitive, responsive user interfaces using JavaScript, React.js, and diverse tech stacks. Proven ability to
+enhance user experiences and drive excellence. Seeking to contribute in a dynamic environment to improve user
+satisfaction and operational efficiency.
 
 - 👀 I’m currently looking for a Front End Developer role.
 
