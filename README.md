@@ -1,6 +1,6 @@
 # Hi, I'm Vasudev <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-## Welcome to my page!
+## Welcome to my GitHub page ✌️
 
 Software engineer with over 6 years of experience, including nearly 3 years in front-end development. Skilled in
 creating intuitive, responsive user interfaces using JavaScript, React.js, and diverse tech stacks. Proven ability to
@@ -15,7 +15,7 @@ satisfaction and operational efficiency.
 
 ---
 
-### Latest Projects
+### ⛳️ Latest Projects
 - [Git Mapper](https://github.com/Vasudevatirupathinaidu/GitMapper) - Work in progress
 - [Gemini Memo](https://github.com/Vasudevatirupathinaidu/GeminiMemo)
 - [Pixel Icons](https://github.com/Vasudevatirupathinaidu/PixelIcons)
@@ -23,7 +23,7 @@ satisfaction and operational efficiency.
 
 ---
 
-### Top Technologies
+### 🛠️ Top Technologies
 
 <!-- TODO: Make technologies links take you to repositories -->
 
@@ -33,7 +33,7 @@ satisfaction and operational efficiency.
 
 ---
 
-### My GitHub Stats
+### 📊 My GitHub Stats
 <p align="left">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vasudevatirupathinaidu&show_icons=true&locale=en&theme=dark"" alt="Vasudevatirupathinaidu" />
 </p>
