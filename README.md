@@ -16,7 +16,7 @@ satisfaction and operational efficiency.
 ---
 
 ### ⛳️ Latest Projects
-- [Git Mapper](https://github.com/Vasudevatirupathinaidu/GitMapper) - Work in progress
+- [Git Mapper](https://github.com/Vasudevatirupathinaidu/GitMapper)
 - [Gemini Memo](https://github.com/Vasudevatirupathinaidu/GeminiMemo)
 - [Pixel Icons](https://github.com/Vasudevatirupathinaidu/PixelIcons)
 - [My Portfolio: My Mind's Kaleidoscope](https://github.com/Vasudevatirupathinaidu/My-Portfolio-My-Minds-Kaleidoscope)
