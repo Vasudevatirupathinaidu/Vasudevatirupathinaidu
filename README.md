@@ -7,7 +7,7 @@ creating intuitive, responsive user interfaces using JavaScript, React.js, and d
 enhance user experiences and drive excellence. Seeking to contribute in a dynamic environment to improve user
 satisfaction and operational efficiency.
 
-- 👀 I’m currently looking for a Front End Developer role.
+<!-- - 👀 I’m currently looking for a Front End Developer role. -->
 
 - 📫 Please reach out to me at **tirupathinaidu07@gmail.com**
 
